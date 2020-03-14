@@ -3,8 +3,8 @@
 ## 开发所用的框架工具或语言
 * 前端-主要是uniapp框架开发，调式工具有Android真机、微信、支付宝小程序
 * 后端-基于thinkphp框架开发，编写工具VisualStudioCode
-* 聊天功用的GatewayWorker框架
-* 数据库-Navicat for MySQL
+* 聊天功能用的GatewayWorker框架
+* 数据库工具-Navicat for MySQL
 * 本地服务器调式工具-UPUPW ANK
 * 接口测试工具-Postman
 * 证书生成-app端用uni的云打包生成，支付宝小程序用支付宝开放平台开发助手
